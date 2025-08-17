@@ -5,7 +5,7 @@ local VirtualUser = game:GetService("VirtualUser")
 local Player = Players.LocalPlayer
 
 
-local allowedUserIds = {2865486547,4492968175, 5255387011,5729668867, 1324424400, 3379093271 ,4080655743} -- Substitua pelos IDs reais
+local allowedUserIds = {2865486547,4492968175,8936406007, 5255387011,5729668867, 1324424400, 3379093271 ,4080655743} -- Substitua pelos IDs reais
 
 local isAllowed = false
 for _, id in ipairs(allowedUserIds) do
